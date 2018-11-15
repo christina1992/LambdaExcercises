@@ -22,11 +22,13 @@ To write such a simple program, we had to write 15 lines of Java code.
 The bigger problem in this code is not the number of lines a developer has to write but,
 that it misses the developer's intent, i.e. filtering reading tasks, sorting by title length, and transforming to String List.
 - Find all reading task titles sorted by their creation date.
-- Find distinct tasks
-- Find top 2 reading tasks sorted by creation date
-- Find all unique tags from all tasks
-- Check if all reading tasks have tag books
-- Creating a summary of all titles
+- Find all reading tasks sorted by creation date in reverse.
+- Find distinct tasks.
+- Find top 2 reading tasks sorted by creation date.
+- Find all unique tags from all tasks.
+- Check if all reading tasks have tag books.
+- Creating a summary of all titles.
+(Code Refactoring *** Adding new feature *** Reading Domain Driven Development *** Reading Design Patterns *** Reading Java Lambda *** Blogging about Lambda Functions *** Blogging about Lambda Functions)
 
 # Hint
 Use Streams.
@@ -42,6 +44,7 @@ Also write the following functions:
 - Finding Task with longest title
 - Count total number of tags
 - Generate summary of Task titles
+(Code Refactoring;Adding new feature;Reading Domain Driven Development;Reading Design Patterns;Reading Java Lambda;Blogging about Lambda Functions;Blogging about Lambda Functions)
 - Grouping tasks by type
 - Grouping by TaskType and createdOn
 
