@@ -1,0 +1,8 @@
+
+Usquid:S3655Y"7Call "Optional#isPresent()" before accessing the value.(½¶×ñ8ÊëŒúï,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¤çìüÿÿÿÿ8±Ã úï,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ
+]squid:S1854"@Remove this useless assignment to local variable "readingTasks".(µ˜Ï#8±Ã úï,
+_squid:UnusedPrivateMethod*"4Remove this unused private "allDistinctTags" method.(Š¥¶78™û´úï,
+Nsquid:S1481"1Remove this unused "readingTasks" local variable.(µ˜Ï#8±Ã úï,

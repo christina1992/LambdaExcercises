@@ -1,0 +1,12 @@
+
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(İ¨òğøÿÿÿÿ8Ö¶ƒ¢ğ,
+Msquid:EmptyStatementUsageCheck"Remove this empty statement.(É´Ù8ªùş¡ğ,
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Ğï±ûÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯Ùø<8£§ş¡ğ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(É´Ù8ªùş¡ğ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ
+nsquid:UnusedPrivateMethod2"DRemove this unused private "groupTasksByTypeAndCreationDate" method.(²¶ò÷ıÿÿÿÿ
